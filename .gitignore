@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+*.ttf
+# renders e mídia pesada ficam no workspace, não no repositório
+*.mp4
+*.wav
+*.png
+build/
+build_vertical/

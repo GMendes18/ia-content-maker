@@ -1,0 +1,12 @@
+# Versões testadas (Python 3.10, CPU). torch é instalado à parte (índice CPU) pelo setup.sh.
+kokoro==0.9.4
+misaki[en]==0.9.4
+espeakng-loader==0.2.4
+phonemizer-fork==3.3.2
+faster-whisper==1.2.1
+soundfile==0.14.0
+numpy==2.2.6
+scipy==1.15.3
+pillow==12.3.0
+opencv-python-headless==5.0.0.93
+playwright==1.65.1

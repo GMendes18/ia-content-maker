@@ -1,0 +1,25 @@
+{
+  "plates": ["street_1950_night", "restaurant_1950_night", "office_1950_day"],
+  "quads": [["card_closeup", "dresser_wallet", "telephone", "calendar"],
+            ["cash_register", "nyc_map", "newspaper", "globe"]],
+  "characters": {
+    "frank": {
+      "desc": "Frank, 1950s businessman in his 30s, chunky rounded-square head, stubby legs, wide shoulders, light-medium peach skin, short charcoal hair with sideburns, charcoal fedora with a berry-red band, pine-green suit jacket, white shirt, berry-red tie, charcoal trousers, near-black shoes",
+      "skin": "#e3a983", "hair": "#2e3236", "hat": "#2e3236", "hat_band": "#a3324f",
+      "jacket": "#2f5d4a", "shirt": "#f2f5f7", "tie": "#a3324f", "trousers": "#3d4247", "shoes": "#1f2326",
+      "alt_emotion": "shocked"
+    },
+    "ralph": {
+      "desc": "Ralph, 1950s lawyer in his 40s, chunky rounded-square head, stubby legs, wide shoulders, pale rosy skin, combed stone-grey hair, thick stone-grey mustache, round clear glasses, charcoal suit, ice-blue shirt, pine-green tie, charcoal trousers, near-black shoes",
+      "skin": "#f2cbb6", "hair": "#8e928f", "hat": null, "mustache": true, "glasses": true,
+      "jacket": "#3a3f45", "shirt": "#bcd8e6", "tie": "#2f5d4a", "trousers": "#2e3236", "shoes": "#1f2326",
+      "alt_emotion": "shocked"
+    },
+    "waiter": {
+      "desc": "Waiter, 1950s diner waiter in his 20s, chunky rounded-square head, stubby legs, wide shoulders, deep brown skin, short black hair, white waiter jacket, white shirt, berry-red bow tie, charcoal trousers, near-black shoes",
+      "skin": "#7a4a2e", "hair": "#1f2326", "hat": null, "neckwear": "bow",
+      "jacket": "#eef2f4", "shirt": "#ffffff", "tie": "#a3324f", "trousers": "#2e3236", "shoes": "#1f2326",
+      "alt_emotion": "shocked"
+    }
+  }
+}

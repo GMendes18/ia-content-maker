@@ -1,0 +1,2 @@
+Coloque aqui faixas .mp3/.wav livres de direitos em subpastas com o nome da família de música do DNA
+(ex.: light lo-fi beats/). Se não houver nada, audio.py sintetiza uma trilha.

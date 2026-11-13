@@ -1,0 +1,11 @@
+{
+  "topic": "O primeiro cartão de crédito",
+  "title": "O PRIMEIRO CARTÃO",
+  "intro_plate": "street_1950_night",
+  "intro_night": 0,
+  "outro_plate": "street_1950_night",
+  "outro_char": "frank",
+  "outro_floor": 872,
+  "outro_night": 0.12,
+  "accent": {"name": "berry red", "hex": "#a3324f", "banner_hex": "#a3324f"}
+}

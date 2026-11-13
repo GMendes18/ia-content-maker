@@ -1,0 +1,25 @@
+{
+  "plates": ["harbor_paita_1890_day", "observatory_india_1920", "lab_1969_day"],
+  "quads": [["pacific_map", "sea_cutaway", "fishing_net", "calendar"],
+            ["pacific_horizon", "brazil_map", "bushfire", "globe"]],
+  "characters": {
+    "pescador": {
+      "desc": "Peruvian fisherman around 1890 in his 40s, chunky rounded-square head, stubby legs, wide shoulders, warm brown skin, short black hair, wide straw hat with a berry-red band, faded ice-blue work shirt with no tie, rolled stone trousers, dark sandals",
+      "skin": "#9a6440", "hair": "#1f2326", "hat": "#d8b878", "hat_band": "#a3324f", "neckwear": "none",
+      "jacket": "#8fb3c4", "shirt": "#e8eef1", "tie": "#8fb3c4", "trousers": "#a6a397", "shoes": "#3a2a20",
+      "alt_emotion": "shocked"
+    },
+    "walker": {
+      "desc": "Gilbert Walker, British scientist in India in the 1920s, in his 50s, chunky rounded-square head, stubby legs, wide shoulders, pale skin, white hair, white mustache, pale stone-grey linen suit, white shirt, berry-red bow tie, stone trousers, brown shoes",
+      "skin": "#f0c6ad", "hair": "#e9ecee", "hat": null, "mustache": true, "neckwear": "bow",
+      "jacket": "#c9cbc8", "shirt": "#ffffff", "tie": "#a3324f", "trousers": "#9fa29e", "shoes": "#4a3326",
+      "alt_emotion": "shocked"
+    },
+    "bjerknes": {
+      "desc": "Jacob Bjerknes, Norwegian-American meteorologist in 1969, in his 70s, chunky rounded-square head, stubby legs, wide shoulders, pale rosy skin, thin white hair, dark round glasses, charcoal suit, ice-blue shirt, pine-green tie, charcoal trousers, black shoes",
+      "skin": "#f2cbb6", "hair": "#dfe3e5", "hat": null, "glasses": true,
+      "jacket": "#3a3f45", "shirt": "#bcd8e6", "tie": "#2f5d4a", "trousers": "#2e3236", "shoes": "#1f2326",
+      "alt_emotion": "shocked"
+    }
+  }
+}

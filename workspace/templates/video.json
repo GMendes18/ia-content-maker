@@ -1,0 +1,7 @@
+{
+  "topic": "TEMA DO VÍDEO",
+  "format": "vertical",
+  "accent": {"name": "COPIE de picks.json", "hex": "#000000", "banner_hex": "#000000"},
+
+  "_paisagem_opcional": "para 1920x1080 com vinhetas, adicione: title, intro_plate, intro_night, outro_plate, outro_char, outro_floor, outro_night. No vertical, deixe sem: a voz entra no frame 0."
+}

@@ -1,0 +1,3 @@
+{"before": {"plate": "restaurant_1950_night", "sprite": "frank_pose_pockets", "focus": [700, 640]},
+ "after":  {"plate": "office_1950_day", "char": "frank", "pose": "cheer", "prop": "card", "focus": [1100, 520]},
+ "divider": "#a3324f"}

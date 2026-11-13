@@ -1,0 +1,17 @@
+{
+ "seed": 4817788121640680404,
+ "script_shape": "myth vs reality",
+ "hook": "a shocking number",
+ "motif": "one prop that appears in every chapter",
+ "thumbnail": "two characters facing off",
+ "accent": {
+  "name": "berry red",
+  "hex": "#a3324f",
+  "banner_hex": "#a3324f"
+ },
+ "length_min": 1,
+ "format": "vertical",
+ "notes": [
+  "re-sorteei accent: ice blue → berry red (branco sobre ice blue fica abaixo de 4.5:1)"
+ ]
+}

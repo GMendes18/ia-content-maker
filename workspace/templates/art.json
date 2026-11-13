@@ -1,0 +1,13 @@
+{
+  "_leia": "plates = cenários grandes (com personagens); quads = 4 close-ups cada (múltiplo de 4). Nomes = funções em engine/art/plates.py e tiles.py (crie novas seguindo o padrão). Cores dos personagens: SÓ da paleta do dna.json (e tons de pele variados).",
+  "plates": ["NOME_DO_PLATE_1", "NOME_DO_PLATE_2"],
+  "quads": [["TILE_1", "TILE_2", "TILE_3", "TILE_4"]],
+  "characters": {
+    "personagem": {
+      "desc": "descrição fixa: idade, cabelo, rosto, pele, cada peça de roupa com cor da paleta (cole igual em todo sheet)",
+      "skin": "#c68a62", "hair": "#2e3236", "hat": null, "hat_band": null, "mustache": false, "glasses": false,
+      "neckwear": "tie", "jacket": "#336651", "shirt": "#f2f5f7", "tie": "#a3324f", "trousers": "#3d4247", "shoes": "#1f2326",
+      "alt_emotion": "shocked"
+    }
+  }
+}

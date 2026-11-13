@@ -1,0 +1,5 @@
+{"_leia": "layout faceoff = capa vertical 1080x1920 (dois personagens frente a frente); sem 'layout' = before/after 1280x720. focus = x do MUNDO (0-1920).",
+ "layout": "faceoff",
+ "left":  {"plate": "PLATE_A", "focus": 900,  "char": "personagem_a"},
+ "right": {"plate": "PLATE_B", "focus": 1100, "char": "personagem_b"},
+ "divider": "#a3324f"}

@@ -1,0 +1,1 @@
+Coloque aqui efeitos <nome>.wav (tick, whoosh, pop, thud, hit, ding...). Eles substituem os sintetizados.
